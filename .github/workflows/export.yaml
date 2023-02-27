@@ -18,6 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt install -y proj-bin libproj-dev
+          pip install stactools
           pip install open-science-catalog-builder/
       # Fix timestamps
       - name: restore timestamps
