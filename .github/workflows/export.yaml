@@ -26,6 +26,7 @@ jobs:
         run: |
           osc build ./ -o dist/ \
             --root-href "https://constantinius.github.io/osc-demo/"
+          stac copy dist/collection.json out -l https://constantinius.github.io/osc-demo -t ABSOLUTE_PUBLISHED
       - name: Copying Catalog client
         run: |
           cp -r client/* dist/
@@ -33,7 +34,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages
-          folder: dist
+          folder: out
   # Deploy job
   # deploy:
   #   # Add a dependency to the build job
