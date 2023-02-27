@@ -24,9 +24,9 @@ jobs:
         uses: chetan/git-restore-mtime-action@v1
       - name: Build static Catalog
         run: |
-          osc build ./ -o dist/ \
+          osc build ./ -o build/ \
             --root-href "https://constantinius.github.io/osc-demo/"
-          stac copy dist/collection.json out -l https://constantinius.github.io/osc-demo -t ABSOLUTE_PUBLISHED
+          stac copy build/collection.json dist -l https://constantinius.github.io/osc-demo -t ABSOLUTE_PUBLISHED
       - name: Copying Catalog client
         run: |
           cp -r client/* dist/
@@ -34,7 +34,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages
-          folder: out
+          folder: dist
   # Deploy job
   # deploy:
   #   # Add a dependency to the build job
