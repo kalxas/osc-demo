@@ -1,0 +1,45 @@
+{
+  "type": "Collection",
+  "id": "v1.1",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2019/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2020/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          Infinity,
+          Infinity,
+          -Infinity,
+          -Infinity
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

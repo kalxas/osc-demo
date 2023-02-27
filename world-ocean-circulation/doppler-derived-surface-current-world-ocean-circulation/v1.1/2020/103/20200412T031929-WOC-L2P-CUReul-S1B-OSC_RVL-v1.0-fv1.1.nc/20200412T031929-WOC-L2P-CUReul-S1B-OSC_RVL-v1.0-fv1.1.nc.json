@@ -1,0 +1,262 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "20200412T031929-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc",
+  "properties": {
+    "datetime": null,
+    "start_datetime": "2020-04-12T03:19:41.250000Z",
+    "end_datetime": "2020-04-13T03:19:41.250000Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          31.726881,
+          -30.8327465
+        ],
+        [
+          31.726881,
+          -29.3327274
+        ],
+        [
+          28.827282,
+          -29.3327274
+        ],
+        [
+          28.827282,
+          -30.8327465
+        ],
+        [
+          31.726881,
+          -30.8327465
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "via",
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_currents/woc-l2p-cureul-s1a-osc_rvl/v1.1/2020/103/20200412T031929-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc",
+      "type": "text/html"
+    },
+    {
+      "rel": "root",
+      "href": "../../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/home/fabian/dev/stactools-datacube/data/out/woc-l2p-cureul-s1a-osc_rvl/2020/103/20200412T031929-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20200412T031929-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "data": {
+      "href": "https://data-cersat.ifremer.fr/projects/woc/products/theme1/ocean_currents/woc-l2p-cureul-s1a-osc_rvl/v1.1/2020/103/20200412T031929-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc",
+      "type": "application/x-netcdf",
+      "cube:dimensions": {
+        "row": {
+          "type": "other",
+          "extent": [
+            0.0,
+            126.0
+          ],
+          "step": 1.0,
+          "unit": null
+        },
+        "cell": {
+          "type": "other",
+          "extent": [
+            0.0,
+            126.0
+          ],
+          "step": 1.0,
+          "unit": null
+        },
+        "swath": {
+          "type": "other",
+          "extent": [
+            0.0,
+            2.0
+          ],
+          "step": 1.0,
+          "unit": null
+        },
+        "time": {
+          "type": "temporal",
+          "extent": [
+            "2020-04-12T03:19:41.250000",
+            "2020-04-13T03:19:41.250000"
+          ],
+          "step": null,
+          "values": [
+            "2020-04-12T03:19:41.250000"
+          ]
+        }
+      },
+      "cube:variables": {
+        "lat": {
+          "type": "data",
+          "unit": "degrees north",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "lon": {
+          "type": "data",
+          "unit": "degrees east",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "doppler_centroid_anomaly": {
+          "type": "data",
+          "unit": "Hz",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "doppler_centroid_std": {
+          "type": "data",
+          "unit": "Hz",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "sigma0": {
+          "type": "data",
+          "unit": "dB",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "quality_level": {
+          "type": "data",
+          "unit": null,
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "land_area_fraction": {
+          "type": "data",
+          "unit": "1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "radial_direction": {
+          "type": "data",
+          "unit": "degrees",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "signal_to_noise": {
+          "type": "data",
+          "unit": "1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "incidence_angle": {
+          "type": "data",
+          "unit": "angular_degree",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "eastward_stokes_drift_velocity": {
+          "type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "northward_stokes_drift_velocity": {
+          "type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "wind_speed": {
+          "type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "wind_direction": {
+          "type": "data",
+          "unit": "m s-1",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "wave_bias": {
+          "type": "data",
+          "unit": "Hz",
+          "dimensions": [
+            "row",
+            "cell",
+            "swath"
+          ]
+        },
+        "time": {
+          "type": "data",
+          "unit": "days since 1981-01-01 00:00:00",
+          "dimensions": [
+            "time"
+          ]
+        }
+      }
+    }
+  },
+  "bbox": [
+    28.827282,
+    -30.8327465,
+    31.726881,
+    -29.3327274
+  ],
+  "stac_extensions": [],
+  "collection": "103"
+}

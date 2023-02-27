@@ -1,0 +1,80 @@
+{
+  "type": "Collection",
+  "id": "362",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173235-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173235-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173300-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173300-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173324-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173324-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173349-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173349-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173414-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173414-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173442-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173442-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173506-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173506-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20191228T173531-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20191228T173531-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          Infinity,
+          Infinity,
+          -Infinity,
+          -Infinity
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "0001-01-01T00:00:00Z",
+          "0001-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

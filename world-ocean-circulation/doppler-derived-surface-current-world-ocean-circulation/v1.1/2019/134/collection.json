@@ -1,0 +1,95 @@
+{
+  "type": "Collection",
+  "id": "134",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T164242-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20190514T164242-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T164307-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20190514T164307-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T164332-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20190514T164332-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T164357-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20190514T164357-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T164421-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc/20190514T164421-WOC-L2P-CUReul-S1B-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173229-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173229-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173254-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173254-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173318-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173318-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173343-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173343-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173408-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173408-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20190514T173436-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20190514T173436-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          Infinity,
+          Infinity,
+          -Infinity,
+          -Infinity
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "0001-01-01T00:00:00Z",
+          "0001-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

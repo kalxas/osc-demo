@@ -1,0 +1,1030 @@
+{
+  "type": "Collection",
+  "id": "2019",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./128/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./129/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./131/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./132/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./133/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./134/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./135/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./136/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./137/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./138/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./140/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./141/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./142/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./143/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./145/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./146/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./147/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./148/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./150/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./152/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./153/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./154/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./155/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./156/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./157/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./158/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./159/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./160/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./161/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./162/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./164/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./165/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./166/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./167/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./168/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./169/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./170/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./171/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./174/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./176/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./177/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./178/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./179/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./180/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./181/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./182/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./183/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./184/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./188/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./189/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./190/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./191/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./192/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./193/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./194/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./195/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./196/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./197/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./198/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./200/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./201/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./202/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./203/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./204/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./206/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./207/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./209/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./210/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./212/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./213/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./214/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./215/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./216/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./217/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./218/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./219/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./220/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./221/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./222/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./224/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./225/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./226/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./227/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./228/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./229/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./230/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./231/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./234/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./236/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./237/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./238/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./239/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./240/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./241/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./242/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./243/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./244/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./245/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./246/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./248/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./249/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./251/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./252/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./253/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./254/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./255/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./256/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./258/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./259/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./260/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./261/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./262/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./263/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./264/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./265/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./266/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./267/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./268/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./270/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./271/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./272/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./273/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./274/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./275/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./276/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./277/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./278/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./282/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./284/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./285/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./286/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./288/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./289/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./290/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./291/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./292/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./296/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./297/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./298/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./299/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./300/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./301/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./303/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./304/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./306/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./307/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./308/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./309/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./310/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./311/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./312/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./313/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./314/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./316/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./318/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./319/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./320/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./321/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./322/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./323/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./324/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./325/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./326/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./327/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./328/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./330/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./331/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./332/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./333/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./334/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./335/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./336/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./337/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./338/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./339/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./340/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./342/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./343/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./344/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./345/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./346/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./347/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./348/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./349/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./350/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./351/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./352/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./354/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./356/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./357/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./358/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./359/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./360/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./361/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./362/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./363/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./364/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          Infinity,
+          Infinity,
+          -Infinity,
+          -Infinity
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
