@@ -42,7 +42,7 @@
     },
     {
       "rel": "root",
-      "href": "../../../collection.json",
+      "href": "../../../../../../collection.json",
       "type": "application/json"
     },
     {
@@ -53,11 +53,6 @@
     {
       "rel": "parent",
       "href": "../collection.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "self",
-      "href": "/home/fabian/dev/stactools-datacube/data/out/woc-l2p-cureul-s1a-osc_rvl/2020/100/20200409T172516-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200409T172516-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
       "type": "application/json"
     }
   ],

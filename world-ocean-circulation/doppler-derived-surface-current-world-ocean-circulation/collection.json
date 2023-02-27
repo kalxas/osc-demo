@@ -29,6 +29,11 @@
       "href": "../collection.json",
       "type": "application/json",
       "title": "WOC"
+    },
+    {
+      "rel": "child",
+      "href": "./v1.1/collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [
@@ -50,17 +55,19 @@
   "extent": {
     "spatial": {
       "bbox": [
-        19.9931766896,
-        -34.845355958,
-        20.0417410996,
-        -34.8205312217
+        [
+          14.498394,
+          -41.8624916,
+          37.2346878,
+          -23.4501228
+        ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2019-01-01T00:00:00Z",
-          "2019-12-31T23:59:59Z"
+          "2019-05-08T16:44:03.750000Z",
+          "2020-04-29T17:17:48.750000Z"
         ]
       ]
     }
