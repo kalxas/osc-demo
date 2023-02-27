@@ -18,8 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt install -y proj-bin libproj-dev
-          pip install stactools
-          pip install open-science-catalog-builder/
+          pip install stactools open-science-catalog-builder/
       # Fix timestamps
       - name: restore timestamps
         uses: chetan/git-restore-mtime-action@v1
