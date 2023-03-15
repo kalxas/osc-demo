@@ -32,7 +32,7 @@
     },
     {
       "rel": "child",
-      "href": "./v1.1/collection.json",
+      "href": "./v1.1/catalog.json",
       "type": "application/json"
     }
   ],
