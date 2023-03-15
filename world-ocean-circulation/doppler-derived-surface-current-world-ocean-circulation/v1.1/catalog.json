@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "../../../catalog.json",
+      "href": "../../../collection.json",
       "type": "application/json"
     },
     {
@@ -22,7 +22,8 @@
     {
       "rel": "parent",
       "href": "../collection.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
     }
   ],
   "stac_extensions": []
