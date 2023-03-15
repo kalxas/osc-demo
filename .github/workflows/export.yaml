@@ -27,6 +27,7 @@ jobs:
           osc build ./ -o build/ \
             --root-href "https://constantinius.github.io/osc-demo/"
           stac copy build/collection.json dist -l https://constantinius.github.io/osc-demo -t ABSOLUTE_PUBLISHED
+          cp build/{codelists.xml,eo-missions.json,metrics.json,themes.json,variables.json} dist/
       - name: Copying Catalog client
         run: |
           cp -r client/* dist/
