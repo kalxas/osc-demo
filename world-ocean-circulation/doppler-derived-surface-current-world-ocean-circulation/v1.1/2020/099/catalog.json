@@ -1,0 +1,39 @@
+{
+  "type": "Catalog",
+  "id": "099",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200408T164435-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200408T164435-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200408T164500-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200408T164500-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200408T164524-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200408T164524-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200408T164549-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200408T164549-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

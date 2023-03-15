@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "080",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200320T165247-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200320T165247-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./20200320T165312-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200320T165312-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}
