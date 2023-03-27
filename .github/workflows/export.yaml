@@ -17,7 +17,7 @@ jobs:
           python-version: '3.10.x'
       - name: Install dependencies
         run: |
-          sudo apt install -y libcurl4-gnutls-dev
+          sudo apt update
           sudo apt install -y proj-bin libproj-dev
           pip install stactools open-science-catalog-builder/
       # Fix timestamps
