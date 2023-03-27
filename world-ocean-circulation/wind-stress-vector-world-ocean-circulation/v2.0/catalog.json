@@ -1,0 +1,80 @@
+{
+  "type": "Catalog",
+  "id": "v2.0",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2009/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2010/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2011/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2012/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2013/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2014/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2015/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2016/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2017/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2018/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2019/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./2020/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "ERA* Hourly Global Stress Equivalent Wind and Wind Stress"
+    }
+  ],
+  "stac_extensions": []
+}

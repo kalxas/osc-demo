@@ -1,0 +1,179 @@
+{
+  "type": "Catalog",
+  "id": "197",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071600-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T06_18-v2.0-fv1.0.nc/2015071600-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T06_18-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071600-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_06-v2.0-fv1.0.nc/2015071600-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_06-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071601-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_07-v2.0-fv1.0.nc/2015071601-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_07-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071602-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_08-v2.0-fv1.0.nc/2015071602-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_08-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071603-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_09-v2.0-fv1.0.nc/2015071603-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_09-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071604-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_10-v2.0-fv1.0.nc/2015071604-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_10-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071605-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_11-v2.0-fv1.0.nc/2015071605-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_11-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071606-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_12-v2.0-fv1.0.nc/2015071606-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_12-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071607-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_13-v2.0-fv1.0.nc/2015071607-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_13-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071608-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_14-v2.0-fv1.0.nc/2015071608-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_14-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071609-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_15-v2.0-fv1.0.nc/2015071609-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_15-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071609-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_03-v2.0-fv1.0.nc/2015071609-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_03-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071610-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_16-v2.0-fv1.0.nc/2015071610-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_16-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071610-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_04-v2.0-fv1.0.nc/2015071610-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_04-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071611-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_17-v2.0-fv1.0.nc/2015071611-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_17-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071611-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_05-v2.0-fv1.0.nc/2015071611-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_05-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071612-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_18-v2.0-fv1.0.nc/2015071612-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150715T18_18-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071612-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_06-v2.0-fv1.0.nc/2015071612-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_06-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071613-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_07-v2.0-fv1.0.nc/2015071613-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_07-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071614-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_08-v2.0-fv1.0.nc/2015071614-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_08-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071615-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_09-v2.0-fv1.0.nc/2015071615-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_09-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071616-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_10-v2.0-fv1.0.nc/2015071616-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_10-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071617-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_11-v2.0-fv1.0.nc/2015071617-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_11-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071618-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_12-v2.0-fv1.0.nc/2015071618-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_12-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071619-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_13-v2.0-fv1.0.nc/2015071619-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_13-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071620-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_14-v2.0-fv1.0.nc/2015071620-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_14-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071621-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_15-v2.0-fv1.0.nc/2015071621-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_15-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071621-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_03-v2.0-fv1.0.nc/2015071621-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_03-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071622-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_16-v2.0-fv1.0.nc/2015071622-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_16-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071622-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_04-v2.0-fv1.0.nc/2015071622-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_04-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071623-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_17-v2.0-fv1.0.nc/2015071623-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T06_17-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015071623-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_05-v2.0-fv1.0.nc/2015071623-WOC-L4-STRESS_ERAstar_GLO_0125_1H_R20150716T18_05-v2.0-fv1.0.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}
