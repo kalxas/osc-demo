@@ -1,0 +1,64 @@
+{
+  "type": "Catalog",
+  "id": "DOC_1-month_9km",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2010-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2010-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2011-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2011-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2012-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2012-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2013-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2013-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2014-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2014-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2015-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2015-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2016-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2016-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2017-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2017-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2018-fv1.3.nc/BICEP_NCEO_DOC_ESA-OC-L3S-MERGED-1M_MONTHLY_9km_Mapped_2018-fv1.3.nc.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Dissolved Organic Carbon"
+    }
+  ]
+}
