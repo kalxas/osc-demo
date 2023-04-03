@@ -63,5 +63,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "theme:Land",
+    "variable:Snow cover",
+    "region:Greenland"
+  ]
 }

@@ -55,5 +55,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Lake area",
+    "region:Antarctica"
+  ]
 }

@@ -87,5 +87,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans"
+  ]
 }

@@ -56,5 +56,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier topography",
+    "region:Antarctica"
+  ]
 }

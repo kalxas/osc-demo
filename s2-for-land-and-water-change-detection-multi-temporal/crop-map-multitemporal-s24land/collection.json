@@ -67,5 +67,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Land cover",
+    "region:Italy"
+  ]
 }

@@ -68,5 +68,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "theme:Cryosphere",
+    "variable:Bathymetry",
+    "region:Arctic"
+  ]
 }

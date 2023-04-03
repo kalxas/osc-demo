@@ -66,5 +66,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Solar-induced chlorophyll fluorescence (SIF)",
+    "region:Global"
+  ]
 }

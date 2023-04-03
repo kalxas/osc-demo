@@ -63,5 +63,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Lake area",
+    "region:Western Europe"
+  ]
 }

@@ -55,5 +55,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Earth surface short-wave bidirectional reflectance",
+    "region:Global"
+  ]
 }

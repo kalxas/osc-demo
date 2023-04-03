@@ -72,5 +72,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Ocean surface currents (vector)",
+    "region:Agulhas"
+  ]
 }

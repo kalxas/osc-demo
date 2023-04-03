@@ -60,5 +60,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "variable:Gravity field",
+    "region:Global"
+  ]
 }

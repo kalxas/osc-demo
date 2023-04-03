@@ -67,5 +67,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "variable:Geothermal energy",
+    "region:Arctic"
+  ]
 }

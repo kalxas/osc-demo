@@ -73,5 +73,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:O3 Total Column",
+    "region:Antarctica"
+  ]
 }

@@ -70,5 +70,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Coastal sea level (tide)",
+    "region:Europe"
+  ]
 }

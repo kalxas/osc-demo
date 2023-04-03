@@ -66,5 +66,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Snow water equivalent",
+    "region:Europe"
+  ]
 }

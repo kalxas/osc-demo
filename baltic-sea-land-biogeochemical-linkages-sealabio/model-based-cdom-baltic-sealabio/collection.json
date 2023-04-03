@@ -63,5 +63,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "theme:Land",
+    "variable:Colour Dissolved Organic Matter (CDOM)",
+    "region:Baltics"
+  ]
 }

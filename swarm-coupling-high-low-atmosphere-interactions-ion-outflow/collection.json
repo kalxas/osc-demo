@@ -83,5 +83,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Magnetosphere_Ionosphere"
+  ]
 }

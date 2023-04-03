@@ -71,5 +71,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

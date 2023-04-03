@@ -60,5 +60,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Soil moisture at surface",
+    "region:Africa"
+  ]
 }

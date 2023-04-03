@@ -59,5 +59,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Dissolved inorganic carbon  (DIC)",
+    "region:Global"
+  ]
 }

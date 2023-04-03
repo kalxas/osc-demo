@@ -74,5 +74,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:Cloud optical depth",
+    "region:Global"
+  ]
 }

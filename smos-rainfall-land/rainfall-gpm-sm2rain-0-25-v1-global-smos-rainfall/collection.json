@@ -76,5 +76,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Precipitation type at the surface",
+    "region:Global"
+  ]
 }

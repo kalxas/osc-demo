@@ -59,5 +59,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Ocean chlorophyll concentration",
+    "region:Global"
+  ]
 }

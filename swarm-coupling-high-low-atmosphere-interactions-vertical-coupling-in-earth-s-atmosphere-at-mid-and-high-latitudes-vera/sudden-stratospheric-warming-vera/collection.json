@@ -64,5 +64,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Geomagnetic field",
+    "region:None"
+  ]
 }

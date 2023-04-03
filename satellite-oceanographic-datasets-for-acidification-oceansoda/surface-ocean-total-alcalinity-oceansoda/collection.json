@@ -69,5 +69,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Total alkalinity (AT)",
+    "region:Global"
+  ]
 }

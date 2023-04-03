@@ -73,5 +73,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Colour Dissolved Organic Matter (CDOM)",
+    "region:Global"
+  ]
 }

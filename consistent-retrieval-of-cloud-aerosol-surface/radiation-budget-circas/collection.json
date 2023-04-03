@@ -69,5 +69,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:Radiation profile",
+    "region:Regional"
+  ]
 }

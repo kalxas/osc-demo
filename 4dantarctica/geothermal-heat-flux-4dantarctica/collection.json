@@ -73,5 +73,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "theme:Solid Earth",
+    "variable:Geothermal energy",
+    "region:Antarctica"
+  ]
 }

@@ -70,5 +70,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Ionospheric plasma density",
+    "region:None"
+  ]
 }

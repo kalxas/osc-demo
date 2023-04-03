@@ -75,5 +75,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier cover",
+    "region:West Antarctic Ice Sheet"
+  ]
 }

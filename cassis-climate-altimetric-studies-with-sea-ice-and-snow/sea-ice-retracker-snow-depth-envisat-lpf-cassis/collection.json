@@ -69,5 +69,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Sea-ice thickness",
+    "region:Antarctica"
+  ]
 }

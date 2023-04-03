@@ -60,5 +60,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Ice sheet topography",
+    "region:Greenland"
+  ]
 }

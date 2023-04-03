@@ -62,5 +62,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:O3 Tropospheric Column",
+    "region:Global"
+  ]
 }

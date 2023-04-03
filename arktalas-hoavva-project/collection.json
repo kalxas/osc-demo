@@ -63,5 +63,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "theme:Cryosphere"
+  ]
 }

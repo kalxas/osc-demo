@@ -62,5 +62,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:Biomass",
+    "region:Africa"
+  ]
 }

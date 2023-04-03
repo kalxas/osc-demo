@@ -63,5 +63,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Magnetosphere_Ionosphere",
+    "variable:Geomagnetic field",
+    "region:None"
+  ]
 }

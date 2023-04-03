@@ -57,5 +57,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Oceans",
+    "variable:Aerosol Optical Depth",
+    "region:Global Oceans"
+  ]
 }

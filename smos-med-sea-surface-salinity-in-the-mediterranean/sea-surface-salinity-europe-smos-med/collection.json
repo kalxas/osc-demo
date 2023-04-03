@@ -62,5 +62,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Sea surface salinity",
+    "region:Europe"
+  ]
 }

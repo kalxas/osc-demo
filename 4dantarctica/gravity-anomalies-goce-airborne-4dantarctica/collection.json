@@ -58,5 +58,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "theme:Solid Earth",
+    "variable:Gravity field",
+    "region:Antarctica"
+  ]
 }

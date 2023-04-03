@@ -70,5 +70,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Ocean suspended sediments concentration",
+    "region:Black Sea"
+  ]
 }

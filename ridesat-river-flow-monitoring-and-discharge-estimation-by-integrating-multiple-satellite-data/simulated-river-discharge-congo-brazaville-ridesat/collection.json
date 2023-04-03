@@ -70,5 +70,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "variable:River discharge",
+    "region:Africa"
+  ]
 }

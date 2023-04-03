@@ -68,5 +68,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Magnetosphere_Ionosphere"
+  ]
 }

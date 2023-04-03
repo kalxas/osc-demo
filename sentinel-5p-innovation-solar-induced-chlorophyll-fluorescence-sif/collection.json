@@ -66,5 +66,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Land"
+  ]
 }

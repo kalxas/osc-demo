@@ -71,5 +71,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Ocean dynamic topography",
+    "region:Global"
+  ]
 }

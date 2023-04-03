@@ -62,5 +62,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:HDO",
+    "region:Global"
+  ]
 }

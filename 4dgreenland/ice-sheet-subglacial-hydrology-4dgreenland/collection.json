@@ -60,5 +60,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier motion",
+    "region:Greenland"
+  ]
 }

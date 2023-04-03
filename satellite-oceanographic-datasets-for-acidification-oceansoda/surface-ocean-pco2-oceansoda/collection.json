@@ -68,5 +68,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "variable:pCO2",
+    "region:Global"
+  ]
 }

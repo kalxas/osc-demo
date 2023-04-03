@@ -61,5 +61,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "variable:O3 Stratospheric Column",
+    "region:Global"
+  ]
 }
