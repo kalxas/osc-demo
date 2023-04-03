@@ -29,11 +29,6 @@
       "href": "../collection.json",
       "type": "application/json",
       "title": "WOC"
-    },
-    {
-      "rel": "child",
-      "href": "./v2.0/catalog.json",
-      "type": "application/json"
     }
   ],
   "stac_extensions": [
