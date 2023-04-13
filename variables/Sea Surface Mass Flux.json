@@ -1,0 +1,52 @@
+{
+  "type": "Collection",
+  "id": "Sea Surface Mass Flux",
+  "stac_version": "1.0.0",
+  "description": "Sea Surface Mass Flux.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/sea_surface_mass_flux",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../collections/metadata:main/items?keyword=variable:Sea Surface Mass Flux&f=json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+  ],
+  "title": "Sea Surface Mass Flux",
+  "start_datetime": "2020-04-28T00:00:00Z",
+  "end_datetime": "2022-05-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-28T00:00:00Z",
+          "2022-05-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans"
+  ]
+}

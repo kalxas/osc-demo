@@ -1,0 +1,52 @@
+{
+  "type": "Collection",
+  "id": "Sea surface temperature",
+  "stac_version": "1.0.0",
+  "description": "Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW).  In the open ocean the correct term should be  \u201chalinity\u201d with reference of the diversity of salts involved.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/sea_surface_salinity",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "../collections/metadata:main/items?keyword=variable:Sea surface temperature&f=json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+  ],
+  "title": "Sea surface temperature",
+  "start_datetime": "2020-04-28T00:00:00Z",
+  "end_datetime": "2022-05-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-28T00:00:00Z",
+          "2022-05-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans"
+  ]
+}
