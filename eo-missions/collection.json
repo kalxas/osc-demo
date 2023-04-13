@@ -1,0 +1,53 @@
+{
+  "type": "Collection",
+  "id": "eo-missions",
+  "stac_version": "1.0.0",
+  "description": "Open Science Catalog EO Missions Collection.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-1.json",
+      "type": "application/json",
+      "title": "Sentinel-1"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-2.json",
+      "type": "application/json",
+      "title": "Sentinel-2"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+  ],
+  "title": "Open Science Catalog EO Missions Collection",
+  "start_datetime": "2020-04-28T00:00:00Z",
+  "end_datetime": "2022-05-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-28T00:00:00Z",
+          "2022-05-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+  ]
+}

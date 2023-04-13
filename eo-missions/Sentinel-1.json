@@ -1,0 +1,43 @@
+{
+  "type": "Collection",
+  "id": "Sentinel-1",
+  "stac_version": "1.0.0",
+  "description": "Sentinel-1",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "Sentinel-1 Mission",
+  "osc:type": "EO-Mission",
+  "start_datetime": "2020-04-28T00:00:00Z",
+  "end_datetime": "2022-05-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-04-28T00:00:00Z",
+          "2022-05-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+  ]
+}
