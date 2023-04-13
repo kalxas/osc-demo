@@ -1,0 +1,61 @@
+{
+  "type": "Collection",
+  "id": "Open Science Catalog",
+  "stac_version": "1.0.0",
+  "description": "Open Science Catalog",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./eo-missions/collection.json",
+      "type": "application/json",
+      "title": "Open Science Catalog EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./projects/collection.json",
+      "type": "application/json",
+      "title": "Open Science Catalog Projects"
+    },
+    {
+      "rel": "child",
+      "href": "./themes/collection.json",
+      "type": "application/json",
+      "title": "Open Science Catalog Themes"
+    },
+    {
+      "rel": "child",
+      "href": "./variables/collection.json",
+      "type": "application/json",
+      "title": "Open Science Catalog Variables"
+    }
+  ],
+  "stac_extensions": [],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+  }
+}
